@@ -1,2 +1,2 @@
-# rendering-users
-Exploring react by rendering users on DOM using list rendering.
+# Rendering-users(React)
+Exploring react by rendering users on DOM by list rendering.
